@@ -1,0 +1,10 @@
+{
+  "name": "HerbTrace – Blockchain Ayurvedic Traceability",
+  "description": "Blockchain-Based Geo-Tagged Traceability of Ayurvedic Herbs from Wild Harvesters to Consumer QR Code Verification",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

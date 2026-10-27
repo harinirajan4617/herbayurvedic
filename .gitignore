@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.vercel/
+data/herbtrace_db.json
+uploads/*
+!uploads/README.md
+demo-qr-herb-2026-001.png
